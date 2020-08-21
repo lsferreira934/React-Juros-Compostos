@@ -2,7 +2,7 @@
 
 ## Why?
 
-Project developed for application of techniques using reactJs class components.
+Project developed for application of techniques using reactJs Hooks and functional components.
 
 ## Demostration
 
